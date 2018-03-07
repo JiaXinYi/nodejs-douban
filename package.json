@@ -13,6 +13,7 @@
     "cheerio": "^1.0.0-rc.2",
     "eventproxy": "^1.0.0",
     "mongoose": "^5.0.7",
+    "request": "^2.83.0",
     "superagent": "^3.8.2"
   }
 }
